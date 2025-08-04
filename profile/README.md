@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="path/to/logo.png" width="120" alt="SideOrg logo" />
-  <h1>SideOrg</h1>
-  <h3><em>Hack. Ship. Repeat.</em></h3>
-  <img src="path/to/banner.png" width="100%" alt="SideOrg Banner"/>
+<img width="50%" height="512" alt="image" src="https://github.com/user-attachments/assets/2a214661-4951-4105-9f00-9ceeedcefacb" />
+
 </div>
 
 ---
